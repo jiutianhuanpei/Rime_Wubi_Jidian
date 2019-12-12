@@ -29,7 +29,9 @@ patch:
     # Add
     com.apple.dt.Xcode:
       ascii_mode: true
-    com.runningwithcrayons.Alfred-3:
+    com.runningwithcrayons.Alfred:
       ascii_mode: true
     com.googlecode.iterm2:
       ascii_mode: true
+    com.sangfor.Easyconnect:
+      ascii_mode: true      
