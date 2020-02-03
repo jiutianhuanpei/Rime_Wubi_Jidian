@@ -18,9 +18,10 @@
 
 <br/>
 
-用法嘛，只需要终端执行这个：
+用法嘛，先把app关闭，再在终端执行这个：
 
 ```
+rm -rf ~/Library/Rime/
 git clone git@github.com:jiutianhuanpei/Rime_Wubi_Jidian.git ~/Library/Rime/
 ```
 
