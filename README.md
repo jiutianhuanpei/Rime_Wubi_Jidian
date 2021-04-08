@@ -22,7 +22,7 @@
 
 ```
 rm -rf ~/Library/Rime/
-git clone git@github.com:jiutianhuanpei/Rime_Wubi_Jidian.git ~/Library/Rime/
+git clone https://github.com/jiutianhuanpei/Rime_Wubi_Jidian.git ~/Library/Rime/
 ```
 
 然后点击 **重新部署**， 就ok了。
